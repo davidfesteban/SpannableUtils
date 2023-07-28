@@ -1,4 +1,4 @@
-package com.iberdrola.clientes.presentation.utils;
+
 
 import android.app.Activity;
 import android.content.Intent;
